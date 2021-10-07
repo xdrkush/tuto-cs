@@ -1,0 +1,5 @@
+/home/hsuk/Dev/c#/01-helloworld/bin/Debug/net5.0/publish/01-helloworld
+/home/hsuk/Dev/c#/01-helloworld/bin/Debug/net5.0/publish/01-helloworld.dll
+/home/hsuk/Dev/c#/01-helloworld/bin/Debug/net5.0/publish/01-helloworld.deps.json
+/home/hsuk/Dev/c#/01-helloworld/bin/Debug/net5.0/publish/01-helloworld.runtimeconfig.json
+/home/hsuk/Dev/c#/01-helloworld/bin/Debug/net5.0/publish/01-helloworld.pdb

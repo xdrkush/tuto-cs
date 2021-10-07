@@ -1,0 +1,16 @@
+/home/hsuk/Dev/c#/02-afficher-du-texte/bin/Debug/net5.0/02-afficher-du-texte
+/home/hsuk/Dev/c#/02-afficher-du-texte/bin/Debug/net5.0/02-afficher-du-texte.deps.json
+/home/hsuk/Dev/c#/02-afficher-du-texte/bin/Debug/net5.0/02-afficher-du-texte.runtimeconfig.json
+/home/hsuk/Dev/c#/02-afficher-du-texte/bin/Debug/net5.0/02-afficher-du-texte.runtimeconfig.dev.json
+/home/hsuk/Dev/c#/02-afficher-du-texte/bin/Debug/net5.0/02-afficher-du-texte.dll
+/home/hsuk/Dev/c#/02-afficher-du-texte/bin/Debug/net5.0/ref/02-afficher-du-texte.dll
+/home/hsuk/Dev/c#/02-afficher-du-texte/bin/Debug/net5.0/02-afficher-du-texte.pdb
+/home/hsuk/Dev/c#/02-afficher-du-texte/obj/Debug/net5.0/02-afficher-du-texte.csproj.AssemblyReference.cache
+/home/hsuk/Dev/c#/02-afficher-du-texte/obj/Debug/net5.0/02-afficher-du-texte.GeneratedMSBuildEditorConfig.editorconfig
+/home/hsuk/Dev/c#/02-afficher-du-texte/obj/Debug/net5.0/02-afficher-du-texte.AssemblyInfoInputs.cache
+/home/hsuk/Dev/c#/02-afficher-du-texte/obj/Debug/net5.0/02-afficher-du-texte.AssemblyInfo.cs
+/home/hsuk/Dev/c#/02-afficher-du-texte/obj/Debug/net5.0/02-afficher-du-texte.csproj.CoreCompileInputs.cache
+/home/hsuk/Dev/c#/02-afficher-du-texte/obj/Debug/net5.0/02-afficher-du-texte.dll
+/home/hsuk/Dev/c#/02-afficher-du-texte/obj/Debug/net5.0/ref/02-afficher-du-texte.dll
+/home/hsuk/Dev/c#/02-afficher-du-texte/obj/Debug/net5.0/02-afficher-du-texte.pdb
+/home/hsuk/Dev/c#/02-afficher-du-texte/obj/Debug/net5.0/02-afficher-du-texte.genruntimeconfig.cache

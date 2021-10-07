@@ -1,0 +1,16 @@
+/home/hsuk/Dev/c#/04-variables/bin/Debug/net5.0/04-variables
+/home/hsuk/Dev/c#/04-variables/bin/Debug/net5.0/04-variables.deps.json
+/home/hsuk/Dev/c#/04-variables/bin/Debug/net5.0/04-variables.runtimeconfig.json
+/home/hsuk/Dev/c#/04-variables/bin/Debug/net5.0/04-variables.runtimeconfig.dev.json
+/home/hsuk/Dev/c#/04-variables/bin/Debug/net5.0/04-variables.dll
+/home/hsuk/Dev/c#/04-variables/bin/Debug/net5.0/ref/04-variables.dll
+/home/hsuk/Dev/c#/04-variables/bin/Debug/net5.0/04-variables.pdb
+/home/hsuk/Dev/c#/04-variables/obj/Debug/net5.0/04-variables.csproj.AssemblyReference.cache
+/home/hsuk/Dev/c#/04-variables/obj/Debug/net5.0/04-variables.GeneratedMSBuildEditorConfig.editorconfig
+/home/hsuk/Dev/c#/04-variables/obj/Debug/net5.0/04-variables.AssemblyInfoInputs.cache
+/home/hsuk/Dev/c#/04-variables/obj/Debug/net5.0/04-variables.AssemblyInfo.cs
+/home/hsuk/Dev/c#/04-variables/obj/Debug/net5.0/04-variables.csproj.CoreCompileInputs.cache
+/home/hsuk/Dev/c#/04-variables/obj/Debug/net5.0/04-variables.dll
+/home/hsuk/Dev/c#/04-variables/obj/Debug/net5.0/ref/04-variables.dll
+/home/hsuk/Dev/c#/04-variables/obj/Debug/net5.0/04-variables.pdb
+/home/hsuk/Dev/c#/04-variables/obj/Debug/net5.0/04-variables.genruntimeconfig.cache

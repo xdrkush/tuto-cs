@@ -1,0 +1,16 @@
+/home/hsuk/Dev/c#/09-methods/bin/Debug/net5.0/09-methods
+/home/hsuk/Dev/c#/09-methods/bin/Debug/net5.0/09-methods.deps.json
+/home/hsuk/Dev/c#/09-methods/bin/Debug/net5.0/09-methods.runtimeconfig.json
+/home/hsuk/Dev/c#/09-methods/bin/Debug/net5.0/09-methods.runtimeconfig.dev.json
+/home/hsuk/Dev/c#/09-methods/bin/Debug/net5.0/09-methods.dll
+/home/hsuk/Dev/c#/09-methods/bin/Debug/net5.0/ref/09-methods.dll
+/home/hsuk/Dev/c#/09-methods/bin/Debug/net5.0/09-methods.pdb
+/home/hsuk/Dev/c#/09-methods/obj/Debug/net5.0/09-methods.csproj.AssemblyReference.cache
+/home/hsuk/Dev/c#/09-methods/obj/Debug/net5.0/09-methods.GeneratedMSBuildEditorConfig.editorconfig
+/home/hsuk/Dev/c#/09-methods/obj/Debug/net5.0/09-methods.AssemblyInfoInputs.cache
+/home/hsuk/Dev/c#/09-methods/obj/Debug/net5.0/09-methods.AssemblyInfo.cs
+/home/hsuk/Dev/c#/09-methods/obj/Debug/net5.0/09-methods.csproj.CoreCompileInputs.cache
+/home/hsuk/Dev/c#/09-methods/obj/Debug/net5.0/09-methods.dll
+/home/hsuk/Dev/c#/09-methods/obj/Debug/net5.0/ref/09-methods.dll
+/home/hsuk/Dev/c#/09-methods/obj/Debug/net5.0/09-methods.pdb
+/home/hsuk/Dev/c#/09-methods/obj/Debug/net5.0/09-methods.genruntimeconfig.cache

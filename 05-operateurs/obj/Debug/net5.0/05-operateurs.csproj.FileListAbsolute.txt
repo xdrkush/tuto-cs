@@ -1,0 +1,16 @@
+/home/hsuk/Dev/c#/05-operateurs/bin/Debug/net5.0/05-operateurs
+/home/hsuk/Dev/c#/05-operateurs/bin/Debug/net5.0/05-operateurs.deps.json
+/home/hsuk/Dev/c#/05-operateurs/bin/Debug/net5.0/05-operateurs.runtimeconfig.json
+/home/hsuk/Dev/c#/05-operateurs/bin/Debug/net5.0/05-operateurs.runtimeconfig.dev.json
+/home/hsuk/Dev/c#/05-operateurs/bin/Debug/net5.0/05-operateurs.dll
+/home/hsuk/Dev/c#/05-operateurs/bin/Debug/net5.0/ref/05-operateurs.dll
+/home/hsuk/Dev/c#/05-operateurs/bin/Debug/net5.0/05-operateurs.pdb
+/home/hsuk/Dev/c#/05-operateurs/obj/Debug/net5.0/05-operateurs.csproj.AssemblyReference.cache
+/home/hsuk/Dev/c#/05-operateurs/obj/Debug/net5.0/05-operateurs.GeneratedMSBuildEditorConfig.editorconfig
+/home/hsuk/Dev/c#/05-operateurs/obj/Debug/net5.0/05-operateurs.AssemblyInfoInputs.cache
+/home/hsuk/Dev/c#/05-operateurs/obj/Debug/net5.0/05-operateurs.AssemblyInfo.cs
+/home/hsuk/Dev/c#/05-operateurs/obj/Debug/net5.0/05-operateurs.csproj.CoreCompileInputs.cache
+/home/hsuk/Dev/c#/05-operateurs/obj/Debug/net5.0/05-operateurs.dll
+/home/hsuk/Dev/c#/05-operateurs/obj/Debug/net5.0/ref/05-operateurs.dll
+/home/hsuk/Dev/c#/05-operateurs/obj/Debug/net5.0/05-operateurs.pdb
+/home/hsuk/Dev/c#/05-operateurs/obj/Debug/net5.0/05-operateurs.genruntimeconfig.cache

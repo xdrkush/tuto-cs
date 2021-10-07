@@ -1,0 +1,16 @@
+/home/hsuk/Dev/c#/07-boucles/bin/Debug/net5.0/07-boucles
+/home/hsuk/Dev/c#/07-boucles/bin/Debug/net5.0/07-boucles.deps.json
+/home/hsuk/Dev/c#/07-boucles/bin/Debug/net5.0/07-boucles.runtimeconfig.json
+/home/hsuk/Dev/c#/07-boucles/bin/Debug/net5.0/07-boucles.runtimeconfig.dev.json
+/home/hsuk/Dev/c#/07-boucles/bin/Debug/net5.0/07-boucles.dll
+/home/hsuk/Dev/c#/07-boucles/bin/Debug/net5.0/ref/07-boucles.dll
+/home/hsuk/Dev/c#/07-boucles/bin/Debug/net5.0/07-boucles.pdb
+/home/hsuk/Dev/c#/07-boucles/obj/Debug/net5.0/07-boucles.csproj.AssemblyReference.cache
+/home/hsuk/Dev/c#/07-boucles/obj/Debug/net5.0/07-boucles.GeneratedMSBuildEditorConfig.editorconfig
+/home/hsuk/Dev/c#/07-boucles/obj/Debug/net5.0/07-boucles.AssemblyInfoInputs.cache
+/home/hsuk/Dev/c#/07-boucles/obj/Debug/net5.0/07-boucles.AssemblyInfo.cs
+/home/hsuk/Dev/c#/07-boucles/obj/Debug/net5.0/07-boucles.csproj.CoreCompileInputs.cache
+/home/hsuk/Dev/c#/07-boucles/obj/Debug/net5.0/07-boucles.dll
+/home/hsuk/Dev/c#/07-boucles/obj/Debug/net5.0/ref/07-boucles.dll
+/home/hsuk/Dev/c#/07-boucles/obj/Debug/net5.0/07-boucles.pdb
+/home/hsuk/Dev/c#/07-boucles/obj/Debug/net5.0/07-boucles.genruntimeconfig.cache

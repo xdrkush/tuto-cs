@@ -1,0 +1,16 @@
+/home/hsuk/Dev/c#/01-helloworld/bin/Debug/net5.0/01-helloworld
+/home/hsuk/Dev/c#/01-helloworld/bin/Debug/net5.0/01-helloworld.deps.json
+/home/hsuk/Dev/c#/01-helloworld/bin/Debug/net5.0/01-helloworld.runtimeconfig.json
+/home/hsuk/Dev/c#/01-helloworld/bin/Debug/net5.0/01-helloworld.runtimeconfig.dev.json
+/home/hsuk/Dev/c#/01-helloworld/bin/Debug/net5.0/01-helloworld.dll
+/home/hsuk/Dev/c#/01-helloworld/bin/Debug/net5.0/ref/01-helloworld.dll
+/home/hsuk/Dev/c#/01-helloworld/bin/Debug/net5.0/01-helloworld.pdb
+/home/hsuk/Dev/c#/01-helloworld/obj/Debug/net5.0/01-helloworld.csproj.AssemblyReference.cache
+/home/hsuk/Dev/c#/01-helloworld/obj/Debug/net5.0/01-helloworld.GeneratedMSBuildEditorConfig.editorconfig
+/home/hsuk/Dev/c#/01-helloworld/obj/Debug/net5.0/01-helloworld.AssemblyInfoInputs.cache
+/home/hsuk/Dev/c#/01-helloworld/obj/Debug/net5.0/01-helloworld.AssemblyInfo.cs
+/home/hsuk/Dev/c#/01-helloworld/obj/Debug/net5.0/01-helloworld.csproj.CoreCompileInputs.cache
+/home/hsuk/Dev/c#/01-helloworld/obj/Debug/net5.0/01-helloworld.dll
+/home/hsuk/Dev/c#/01-helloworld/obj/Debug/net5.0/ref/01-helloworld.dll
+/home/hsuk/Dev/c#/01-helloworld/obj/Debug/net5.0/01-helloworld.pdb
+/home/hsuk/Dev/c#/01-helloworld/obj/Debug/net5.0/01-helloworld.genruntimeconfig.cache

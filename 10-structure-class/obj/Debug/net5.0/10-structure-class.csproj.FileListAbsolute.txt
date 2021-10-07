@@ -1,0 +1,16 @@
+/home/hsuk/Dev/c#/10-structure-class/bin/Debug/net5.0/10-structure-class
+/home/hsuk/Dev/c#/10-structure-class/bin/Debug/net5.0/10-structure-class.deps.json
+/home/hsuk/Dev/c#/10-structure-class/bin/Debug/net5.0/10-structure-class.runtimeconfig.json
+/home/hsuk/Dev/c#/10-structure-class/bin/Debug/net5.0/10-structure-class.runtimeconfig.dev.json
+/home/hsuk/Dev/c#/10-structure-class/bin/Debug/net5.0/10-structure-class.dll
+/home/hsuk/Dev/c#/10-structure-class/bin/Debug/net5.0/ref/10-structure-class.dll
+/home/hsuk/Dev/c#/10-structure-class/bin/Debug/net5.0/10-structure-class.pdb
+/home/hsuk/Dev/c#/10-structure-class/obj/Debug/net5.0/10-structure-class.csproj.AssemblyReference.cache
+/home/hsuk/Dev/c#/10-structure-class/obj/Debug/net5.0/10-structure-class.GeneratedMSBuildEditorConfig.editorconfig
+/home/hsuk/Dev/c#/10-structure-class/obj/Debug/net5.0/10-structure-class.AssemblyInfoInputs.cache
+/home/hsuk/Dev/c#/10-structure-class/obj/Debug/net5.0/10-structure-class.AssemblyInfo.cs
+/home/hsuk/Dev/c#/10-structure-class/obj/Debug/net5.0/10-structure-class.csproj.CoreCompileInputs.cache
+/home/hsuk/Dev/c#/10-structure-class/obj/Debug/net5.0/10-structure-class.dll
+/home/hsuk/Dev/c#/10-structure-class/obj/Debug/net5.0/ref/10-structure-class.dll
+/home/hsuk/Dev/c#/10-structure-class/obj/Debug/net5.0/10-structure-class.pdb
+/home/hsuk/Dev/c#/10-structure-class/obj/Debug/net5.0/10-structure-class.genruntimeconfig.cache
